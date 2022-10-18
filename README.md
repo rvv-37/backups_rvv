@@ -8,7 +8,7 @@ HOST-SUFFIX,jpush.html5.qq.com, reject
 # > 哈啰
 host-keyword, assets.51downapp.cn, reject
 # > 酷安
-# > host-keyword, p6-be-pack-sign.pglstatp-toutiao.com, reject
+host-keyword, p6-be-pack-sign.pglstatp-toutiao.com, reject
 # > 向日葵
 host-keyword, upload-cdn.orayimg.com, reject
 # > 小米
