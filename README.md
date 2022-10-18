@@ -62,7 +62,6 @@ HOST-SUFFIX,cpu-admin.baidu.com, reject
 IP-CIDR,180.76.76.200/32,REJECT
 # > 百度贴吧屏蔽ws(副作用:消息通知功能失效,需手动进入查看),强制帖子接口走http
 HOST,im.tieba.baidu.com,REJECT
-## /*  
 HOST-SUFFIX,10086.cn.baidu.cdn.yiwk.com, reject
 HOST-SUFFIX,360baidus.com, reject
 HOST-SUFFIX,app.ibaiducdn.com, reject
