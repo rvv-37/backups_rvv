@@ -28,12 +28,6 @@ HOST-SUFFIX, meituangov.cn, reject
 HOST-SUFFIX, report.meituan.com, reject
 HOST-SUFFIX, wmlog.meituan.com, reject
 
-# > 湖南卫视
-HOST-SUFFIX,da.mgtv.com, reject
-HOST-SUFFIX,da.hunantv.com, reject
-HOST-SUFFIX,log.hunantv.com, reject
-HOST-SUFFIX,v2.hunantv.com, reject
-
 # > 新浪
 HOST-SUFFIX,beacon.sina.com.cn, reject
 HOST,u1.img.mobile.sina.cn, reject
@@ -294,3 +288,109 @@ HOST-SUFFIX,zoomanalytics.co, reject
 HOST-SUFFIX,ads.linkedin.com, reject
 HOST,analytics.slashdotmedia.com, reject
 HOST,zgsdk.zhugeio.com, reject
+
+# > 百度
+HOST-SUFFIX,duapps.com, reject
+HOST-SUFFIX,cpro.baidu.com, reject
+HOST-SUFFIX,pos.baidu.com, reject
+HOST,afd.baidu.com, reject
+HOST,als.baidu.com, reject
+HOST,duclick.baidu.com, reject
+HOST,mobads.baidu.com, reject
+HOST,mobads-logs.baidu.com, reject
+HOST,nadvideo2.baidu.com, reject
+HOST,nsclick.baidu.com, reject
+HOST-SUFFIX,bce.baidu.com, reject
+HOST-SUFFIX,bar.baidu.com, reject
+HOST-SUFFIX,baiduyubaidu.com, reject
+HOST-SUFFIX,baidutv.baidu.com, reject
+HOST-SUFFIX,baichuan.baidu.com, reject
+HOST-SUFFIX,appc.baidu.com, reject
+HOST-SUFFIX,anquan.baidu.com, reject
+HOST-SUFFIX,adscdn.baidu.com, reject
+HOST-SUFFIX,adm.baidu.com, reject
+HOST-SUFFIX,ad.player.baidu.com, reject
+HOST-SUFFIX,a.baidu.com, reject
+HOST-SUFFIX,antivirus.baidu.com, reject
+HOST-SUFFIX,baifen.music.baidu.com, reject
+HOST-SUFFIX,banlv.baidu.com, reject
+HOST-SUFFIX,cm.baidu.com, reject
+HOST-SUFFIX,cpro.zhidao.baidu.com, reject
+HOST-SUFFIX,cleaner.baidu.com, reject
+HOST-SUFFIX,cjhq.baidu.com, reject
+HOST-SUFFIX,cb.baidu.com, reject
+HOST-SUFFIX,c.baidu.com, reject
+HOST-SUFFIX,btlaunch.baidu.com, reject
+HOST-SUFFIX,bdplus.baidu.com, reject
+HOST-SUFFIX,cbjs.baidu.com, reject
+HOST-SUFFIX,cpro2.baidu.com, reject
+HOST-SUFFIX,cpu-admin.baidu.com, reject
+
+# > 谷歌
+HOST-SUFFIX,google-analytics.com, reject
+HOST,safebrowsing.googleapis.com, reject
+HOST-SUFFIX,doubleclick.net, reject
+HOST-SUFFIX,googleadservices.com, reject
+HOST-SUFFIX,googleadsserving.cn, reject
+HOST-SUFFIX,googlesyndication.com, reject
+HOST-SUFFIX,googletagservices.com, reject
+HOST-SUFFIX,googletagmanager.com, reject
+HOST-SUFFIX,video-ad-stats.googlesyndication.com, reject
+HOST-SUFFIX,tpc.googlesyndication.com, reject
+HOST-SUFFIX,pagead.google.com, reject
+HOST-SUFFIX,pagead.l.google.com, reject
+HOST-SUFFIX,pagead2.googlesyndication.com, reject
+HOST-SUFFIX,pagead-tpc.l.google.com, reject
+HOST-SUFFIX,mobileads.google.com, reject
+HOST-SUFFIX,googlecommerce.com, reject
+HOST-SUFFIX,blaaaa12.googlecode.com, reject
+HOST-SUFFIX,badad.googleplex.com, reject
+HOST-SUFFIX,afs.googlesyndication.com, reject
+HOST-SUFFIX,afd.l.google.com, reject
+HOST-SUFFIX,www.googleadservices.com, reject
+HOST-SUFFIX,www.google-analytics.com, reject
+HOST,ads.youtube.com, reject
+
+# > 腾讯视频
+host-suffix, tetrack.qq.com, reject
+host-suffix, tpns.tencent.com, reject
+host-suffix, api.poll.video.qq.com, reject
+host-suffix, static-res.qq.com, reject
+host-suffix, stat.tpns.tencent.com, reject
+host, h.trace.qq.com, reject
+host-keyword, omgmta.qq.com, reject
+host-keyword, omgmta1.qq.com, reject
+
+# > 爱奇艺
+host, cr-status.iqiyi.com, reject
+host-suffix, cupid.iqiyi.com, reject
+host, f74f7f7765f8a2f6.ngaa.net.cn, reject
+host, ef-dongfeng.tanx.com, reject
+host, iqiyim.adtrack.enlightent.cn, reject
+HOST,dig.bdurl.net, reject
+HOST,ads3-normal-lq.zijieapi.com, reject
+HOST,ads5-normal-lq.zijieapi.com, reject
+
+# 运营商劫持
+HOST-SUFFIX,189key.com, reject
+HOST-SUFFIX,bkyhq.cn, reject
+HOST-SUFFIX,gscxs.cn, reject
+HOST-SUFFIX,hbssjd.cn, reject
+HOST-SUFFIX,hyunke.com, reject
+HOST-SUFFIX,jsncke.com, reject
+HOST-SUFFIX,junkucm.com, reject
+HOST-SUFFIX,lvehaisen.com, reject
+HOST-SUFFIX,tt114.net, reject
+HOST-SUFFIX,urlaw.cn, reject
+HOST-SUFFIX,urlet.cn, reject
+HOST-SUFFIX,wsgblw.com, reject
+HOST-SUFFIX,xchmai.com, reject
+HOST-SUFFIX,ygyzx.cn, reject
+HOST-SUFFIX,zmlled.cn, reject
+
+# > ChinaTelecom
+IP-CIDR,122.229.8.47/32, reject
+IP-CIDR,122.229.29.89/32, reject
+# > ChinaUnicom
+# > ChinaMobile
+IP-CIDR,120.240.95.37/32, reject
