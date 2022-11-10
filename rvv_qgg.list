@@ -6,18 +6,6 @@ HOST-SUFFIX,im64.jpush.cn, reject
 HOST-SUFFIX,im.jpush.cn, reject
 HOST-SUFFIX,jpush.html5.qq.com, reject
 
-# > 哈啰
-host-keyword, assets.51downapp.cn, reject
-
-# > 美团
-HOST, flowplus.meituan.net, reject
-HOST-SUFFIX, analytics.meituan.net, reject
-HOST-SUFFIX, meituan.xn--io0a7i, reject
-HOST-SUFFIX, meituan.yoga, reject
-HOST-SUFFIX, meituangov.cn, reject
-HOST-SUFFIX, report.meituan.com, reject
-HOST-SUFFIX, wmlog.meituan.com, reject
-
 # > 新浪
 HOST-SUFFIX,beacon.sina.com.cn, reject
 HOST,u1.img.mobile.sina.cn, reject
