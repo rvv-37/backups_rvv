@@ -9,13 +9,6 @@ HOST-SUFFIX,jpush.html5.qq.com, reject
 # > 哈啰
 host-keyword, assets.51downapp.cn, reject
 
-# > 酷安
-host-keyword, p6-be-pack-sign.pglstatp-toutiao.com, reject
-
-# > 小米
-HOST,data.mistat.xiaomi.com, reject
-HOST,tracking.intl.miui.com, reject
-
 # > 美团
 HOST, flowplus.meituan.net, reject
 HOST-SUFFIX, analytics.meituan.net, reject
