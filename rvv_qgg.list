@@ -178,11 +178,6 @@ HOST-SUFFIX,cm.adcommon.bilibili.com, reject
 HOST-SUFFIX,cm.game.bilibili.com, reject
 HOST-SUFFIX,cm.track.biligame.bilibili.com, reject
 
-# > 抖音
-host-keyword,bds.snssdk.com, reject
-host-keyword,p6-ad-sign.byteimg.com, reject
-host-keyword,p3.pstatp.com, reject
-
 # 隐私保护
 HOST-SUFFIX,airpr.com, reject
 HOST-SUFFIX,hotjar.com, reject
