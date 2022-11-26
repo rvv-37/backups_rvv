@@ -39,3 +39,39 @@ https://epg.112114.xyz/huya/20641
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/9b/dc363a04fbca13d9ef00dd8113a46b_180_135.jpg?1641894009&463736 group-title="虎牙", 没毛
 https://epg.112114.xyz/huya/786724
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/2b/ecb5b4d3aa80d5517656b3a5a83ce8_180_135.jpg?1634652819&463736 group-title="虎牙", 口袋
+https://epg.112114.xyz/huya/51106
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/8a/d30bf6104799e4bee8606329533cc9_180_135.jpg?1664772620&463736 group-title="虎牙", 小Z
+https://epg.112114.xyz/huya/xiaoz520
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/02/54d4eebf6901e1eb24ec07f81eb7b5_180_135.jpg?1583999352&463736 group-title="虎牙", 赖神
+https://epg.112114.xyz/huya/99724
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/09/4084809aa31b9ec35c28608ace9c4c_180_135.jpg?1665438487&463736 group-title="虎牙", 张老三
+https://epg.112114.xyz/huya/52333
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/12/4b53e2955341c7bdea36fd43b7c7f3_180_135.jpg?1662819384&463736 group-title="虎牙", 晚玉
+https://epg.112114.xyz/huya/52724
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1032/9f/27edcaebbb93b206c03e6723856890_180_135.jpg?1652980838&463736 group-title="虎牙", 夏沫
+https://epg.112114.xyz/huya/wexiamo
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg?1577343415&463736 group-title="虎牙", 树叶
+https://epg.112114.xyz/huya/ye4655
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/37/9b1c02e23e8a0a36db4fa3c9b32bea_180_135.jpg?1609511890&463736 group-title="虎牙", 晴小兔
+https://epg.112114.xyz/huya/145134
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/dc/0d09f2036fdd88e344d6ab7573bbd9_180_135.jpg?1668539834&463736 group-title="虎牙", 王老板
+https://epg.112114.xyz/huya/327695
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/d5/125d5fecc9fbcf4d880c1bb565cbd5_180_135.jpg?1534774627&463736 group-title="虎牙", 虎牙科技
+https://epg.112114.xyz/huya/880205
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/650168b922e4aae868b29fec672c4fa9_big.jpg" group-title="斗鱼", 旭旭宝宝
+https://epg.112114.xyz/douyu/99999
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201812/1cd45590a33b20c59f4d605817d06f2e_big.jpg" group-title="斗鱼", 图图
+https://epg.112114.xyz/douyu/89466
