@@ -64,26 +64,3 @@ IP-CIDR,122.229.29.89/32, reject
 # > ChinaUnicom
 # > ChinaMobile
 IP-CIDR,120.240.95.37/32, reject
-
-# ======= 哔哩哔哩 ======= #
-DOMAIN-SUFFIX,biliapi.net,IP
-DOMAIN-SUFFIX,biliapi.com,IP 
-DOMAIN,api.bilibili.com,IP 
-DOMAIN,api.bilibili.tv,IP 
-DOMAIN,app.bilibili.com,IP 
-DOMAIN,api.live.bilibili.com,IP 
-DOMAIN,api.vc.bilibili.com,IP 
-DOMAIN,passport.bilibili.com,IP 
-DOMAIN,live-trace.bilibili.com,IP 
-DOMAIN,message.bilibili.com,IP 
-DOMAIN,cm.bilibili.com,IP 
-DOMAIN-SUFFIX,bilibili.com,IP 
-DOMAIN-SUFFIX,im9.com,IP 
-DOMAIN-SUFFIX,acg.tv,IP 
-DOMAIN-SUFFIX,biligame.com,IP 
-
-# ======= 微信 ======= #
-DOMAIN,szshort.weixin.qq.com,IP
-DOMAIN,szextshort.weixin.qq.com,IP
-DOMAIN,szminorshort.weixin.qq.com,IP
-DOMAIN,mp.weixin.qq.com,IP 
