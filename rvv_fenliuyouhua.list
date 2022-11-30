@@ -82,12 +82,6 @@ DOMAIN-SUFFIX,im9.com,IP
 DOMAIN-SUFFIX,acg.tv,IP 
 DOMAIN-SUFFIX,biligame.com,IP 
 
-# ======= 微博 ======= #
-DOMAIN,api.weibo.cn,IP
-DOMAIN,api.weibo.com,IP 
-DOMAIN-SUFFIX,weibocdn.com,IP 
-DOMAIN-KEYWORD,weibo,IP 
-
 # ======= 微信 ======= #
 DOMAIN,szshort.weixin.qq.com,IP
 DOMAIN,szextshort.weixin.qq.com,IP
