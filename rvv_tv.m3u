@@ -80,4 +80,7 @@ https://epg.112114.xyz/douyu/89466
 https://epg.112114.xyz/douyu/5520
 
 #EXTINF:-1 tvg-logo="https://i.328888.xyz/2022/12/05/VjMYJ.jpeg" group-title="YouTube", Lofi Girl
-https://epg.112114.xyz/youtube.com/embed/jfKfPfyJRdk
+https://epg.112114.xyz/youtu.be/embed/jfKfPfyJRdk
+
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/611031b4552d1b79ba5ad6c6576d1820e5c9da9c.jpg" group-title="哔哩哔哩", 范真学姐
+https://epg.112114.xyz/douyu/26078471
