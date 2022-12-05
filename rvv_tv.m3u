@@ -78,3 +78,6 @@ https://epg.112114.xyz/douyu/89466
 
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/0d9d456607b880d2767513dcf65f43c9d82dadea.jpg" group-title="哔哩哔哩", 菠萝赛东
 https://epg.112114.xyz/douyu/5520
+
+#EXTINF:-1 tvg-logo="https://i.328888.xyz/2022/12/05/VjMYJ.jpeg" group-title="YouTube", Lofi Girl
+https://epg.112114.xyz/youtu.be/jfKfPfyJRdk
