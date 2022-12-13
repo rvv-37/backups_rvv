@@ -19,21 +19,6 @@ https://epg.112114.xyz/huya/255
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/42/20ceab40027f04b7ab4c6ae3debd19_180_135.jpg?1646294318 group-title="虎牙-绝地求生", 沫子
 https://epg.112114.xyz/huya/696969
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_middle.jpg" group-title="斗鱼-英雄联盟", PDD
-https://epg.112114.xyz/douyu/101
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="斗鱼-绝地求生", 呆妹儿小霸王
-https://epg.112114.xyz/douyu/92000
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201810/7bdc0080915292eac70eaa41f950792b_middle.jpg" group-title="斗鱼-绝地求生", 一条小团团
-https://epg.112114.xyz/douyu/2222
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/6b3372501d584decac15cce0f7428c30_middle.jpg" group-title="斗鱼-娱乐才艺", 南妹儿呀
-https://epg.112114.xyz/douyu/968987
-
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_middle.jpg" group-title="斗鱼-英雄联盟", 不二不叫周淑怡
-https://epg.112114.xyz/douyu/22222
-
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/9b/dc363a04fbca13d9ef00dd8113a46b_180_135.jpg?1641894009&463736 group-title="虎牙-王者荣耀", 没毛
 https://epg.112114.xyz/huya/786724
 
@@ -63,3 +48,18 @@ https://epg.112114.xyz/douyu/99999
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201812/1cd45590a33b20c59f4d605817d06f2e_big.jpg" group-title="斗鱼-绝地求生", 图图
 https://epg.112114.xyz/douyu/89466
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_middle.jpg" group-title="斗鱼-英雄联盟", PDD
+https://epg.112114.xyz/douyu/101
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="斗鱼-绝地求生", 呆妹儿小霸王
+https://epg.112114.xyz/douyu/92000
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201810/7bdc0080915292eac70eaa41f950792b_middle.jpg" group-title="斗鱼-绝地求生", 一条小团团
+https://epg.112114.xyz/douyu/2222
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/6b3372501d584decac15cce0f7428c30_middle.jpg" group-title="斗鱼-娱乐才艺", 南妹儿呀
+https://epg.112114.xyz/douyu/968987
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/bc69ef78e3874f3ca96240e91554b646_middle.jpg" group-title="斗鱼-英雄联盟", 不二不叫周淑怡
+https://epg.112114.xyz/douyu/22222
