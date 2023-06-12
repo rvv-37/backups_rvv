@@ -3,13 +3,5 @@
 # hostname = *.aliyundrive.com
 阿里云盘 = type=http-response,pattern=^https?:\/\/(api|member)\.aliyundrive\.com,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/alidrive.js
 
-# 堆糖
-# hostname = *.duitang.com
-堆糖 = type=http-response,pattern=^https:\/\/.*\.duitang\.com\/napi,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/duitang.js
-
-# 格式转换
-# hostname = format-api.netpock.com
-格式转换 = type=http-response,pattern=http:\/\/format-api\.netpock\.com\/api\/user_info,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/gszh.js
-
 [MITM]
-hostname = format-api.netpock.com, *.duitang.com, *.aliyundrive.com
+hostname = *.aliyundrive.com
