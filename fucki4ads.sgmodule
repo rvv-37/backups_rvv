@@ -1,0 +1,14 @@
+#!name=去广告
+#!desc=爱思
+
+[URL Rewrite]
+# 爱思开屏
+^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml - reject
+
+[Script]
+# 爱思推广全部干掉只保留搜索 list-app-m.i4.cn, search-app-m.i4.cn
+爱思 = type=http-response,pattern=^https?:\/\/(search|list)-app-m\.i4\.cn\/(getHotSearchList|getAppList)\.xhtml,requires-body=1,max-size=0,script-path=https://github.com/Keywos/rule/raw/main/JS/aisi.js
+
+[MITM]
+h2 = true
+hostname = list-app-m.i4.cn, search-app-m.i4.cn
