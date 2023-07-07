@@ -1,6 +1,3 @@
-#!name=去广告
-#!desc=爱思
-
 [URL Rewrite]
 # 爱思开屏
 ^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml - reject
