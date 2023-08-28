@@ -126,11 +126,63 @@ HOST-SUFFIX,adashbc.m.taobao.com, reject
 # > V
 # > W
 # 微博 开屏广告
-HOST, adstrategy.biz.weibo.com, REJECT
 HOST, kadmimage.biz.weibo.com, REJECT
 HOST, sdkaction.biz.weibo.com, REJECT
 HOST, sdkclick.biz.weibo.com, REJECT
 HOST, sdkmonitor.biz.weibo.com, REJECT
+HOST-KEYWORD,fastimage.uve.weibo.com, reject
+HOST-KEYWORD,adimg.uve.weibo.com, reject
+HOST-SUFFIX,adimg.vue.weibo.com, reject
+HOST-SUFFIX,zymo.mps.weibo.com, reject
+HOST-SUFFIX,weibomingzi.com, reject
+HOST-SUFFIX,sdkapp.uve.weibo.com, reject
+HOST-SUFFIX,s.alitui.weibo.com, reject
+HOST-SUFFIX,promote.biz.weibo.cn, reject
+HOST-SUFFIX,gw5.push.mcp.weibo.cn, reject
+HOST-SUFFIX,game.weibo.cn, reject
+HOST-SUFFIX,biz.weibo.com, reject
+HOST-SUFFIX,adimg.uve.weibo.com, reject
+HOST-SUFFIX,game.weibo.com, reject
+HOST-SUFFIX,gw6.push.mcp.weibo.cn, reject
+HOST-KEYWORD,ads.viber.com, reject
+HOST-KEYWORD,ads-d.viber.com, reject
+HOST-KEYWORD,ads.aws.viber.com, reject
+HOST-SUFFIX,alitui.weibo.com, reject
+HOST,adimg.uve.weibo.com, reject
+HOST,adimg.vue.weibo.com, reject
+HOST-KEYWORD,adimg.uve.weibo.com,reject
+HOST-KEYWORD,alitui.weibo.com,reject
+HOST-KEYWORD,biz.weibo.com,reject
+HOST-KEYWORD,game.weibo.cn,reject
+HOST-KEYWORD,game.weibo.com,reject
+HOST-KEYWORD,gw5.push.mcp.weibo.cn,reject
+HOST-KEYWORD,gw6.push.mcp.weibo.cn,reject
+HOST-KEYWORD,promote.biz.weibo.cn,reject
+HOST-KEYWORD,s.alitui.weibo.com,reject
+HOST-KEYWORD,sdkapp.uve.weibo.com,reject
+HOST-KEYWORD,weibomingzi.com,reject
+HOST-KEYWORD,zymo.mps.weibo.com,reject
+HOST-KEYWORD,adimg.vue.weibo.com,reject
+HOST-KEYWORD,dp.im.weibo.cn,reject
+HOST-KEYWORD,m.game.weibo.cn,reject
+HOST-KEYWORD,c.biz.weibo.com,reject
+HOST-KEYWORD,c.wcpt.biz.weibo.com,reject
+HOST-KEYWORD,click.uve.weibo.com,reject
+HOST-KEYWORD,wax.weibo.com,reject
+HOST-KEYWORD,wbapp.uve.weibo.com,reject
+HOST-KEYWORD,widget.weibo.com,reject
+HOST-KEYWORD,zc.biz.weibo.com,reject
+HOST-KEYWORD,dsp.edm.weibo.cn,reject
+HOST-KEYWORD,alitui.weibo.com.cn,reject
+HOST-KEYWORD,biz.weibo.com.cn,reject
+HOST-KEYWORD,game.weibo.com.cn,reject
+HOST-KEYWORD,tui.weibo.com,reject
+HOST-KEYWORD,wax.weibo.com.cn,reject
+HOST-KEYWORD,ad.weibo.com,reject
+HOST-KEYWORD,adstrategy.biz.weibo.com,reject
+# HOST-KEYWORD,s.weibo.com,reject
+HOST-KEYWORD,vs.biz.weibo.com,reject
+host, bootpreload.uve.weibo.com, reject
 
 # > X
 # > 小米米家
