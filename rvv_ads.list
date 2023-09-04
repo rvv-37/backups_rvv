@@ -1,79 +1,10 @@
 # > A
-# 阿里云
-IP-CIDR, 203.107.1.1/24, REJECT
-
-# Apple
-HOST, api-adservices.apple.com, REJECT
-HOST-SUFFIX, iadsdk.apple.com, REJECT
-
-# 安全浏览限制解除
-HOST, lookup.api.bsb.baidu.com, REJECT
-HOST, proxy.safebrowsing.apple, REJECT
-HOST, safebrowsing.g.applimg.com, REJECT
-HOST, safebrowsing.googleapis.com, REJECT
-HOST, safebrowsing.urlsec.qq.com, REJECT
-HOST, token.safebrowsing.apple, REJECT
-HOST, vs6.bj2ct.u3.ucweb.com, REJECT
-HOST-SUFFIX, safebrowsing.apple, REJECT
-HOST-SUFFIX, u3.ucweb.com, REJECT
-
 # > B
-# 哔哩哔哩
-HOST-SUFFIX,cm.bilibili.com, reject
-host-keyword, api.sobot.com, reject
-HOST-SUFFIX,cm.ad.bilibili.com, reject
-HOST-SUFFIX,cm.adcommon.bilibili.com, reject
-HOST-SUFFIX,cm.game.bilibili.com, reject
-HOST-SUFFIX,cm.track.biligame.bilibili.com, reject
-HOST, mall.bilibili.com, REJECT
-HOST, passport.bilibili.com, REJECT
-
-# 百度网盘
-HOST, mobads.baidu.com, REJECT
-
 # > C
-# 彩云天气
-HOST, ad.cyapi.cn, REJECT
-
 # > D
 # > E
 # > F
 # > G
-# > 谷歌
-HOST-SUFFIX,google-analytics.com, reject
-HOST,safebrowsing.googleapis.com, reject
-HOST-SUFFIX,doubleclick.net, reject
-HOST-SUFFIX,googleadservices.com, reject
-HOST-SUFFIX,googleadsserving.cn, reject
-HOST-SUFFIX,googlesyndication.com, reject
-HOST-SUFFIX,googletagservices.com, reject
-HOST-SUFFIX,googletagmanager.com, reject
-HOST-SUFFIX,video-ad-stats.googlesyndication.com, reject
-HOST-SUFFIX,tpc.googlesyndication.com, reject
-HOST-SUFFIX,pagead.google.com, reject
-HOST-SUFFIX,pagead.l.google.com, reject
-HOST-SUFFIX,pagead2.googlesyndication.com, reject
-HOST-SUFFIX,pagead-tpc.l.google.com, reject
-HOST-SUFFIX,mobileads.google.com, reject
-HOST-SUFFIX,googlecommerce.com, reject
-HOST-SUFFIX,blaaaa12.googlecode.com, reject
-HOST-SUFFIX,badad.googleplex.com, reject
-HOST-SUFFIX,afs.googlesyndication.com, reject
-HOST-SUFFIX,afd.l.google.com, reject
-HOST-SUFFIX,www.googleadservices.com, reject
-HOST-SUFFIX,www.google-analytics.com, reject
-HOST,ads.youtube.com, reject
-
-# 工商银行 开屏广告
-HOST, pageviewp.icbc.com.cn, REJECT
-
-# 广告联盟
-HOST, is.snssdk.com, REJECT
-HOST, mi.gdt.qq.com, REJECT
-HOST, open.e.kuaishou.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao-b.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao.com, REJECT
-HOST-SUFFIX, pangolin-sdk-toutiao1.com, REJECT
 # > H
 # > I
 # > J
@@ -87,112 +18,11 @@ HOST-SUFFIX, pangolin-sdk-toutiao1.com, REJECT
 # > R
 # > S
 # > T
-# > 淘宝
-HOST-SUFFIX,apoll.m.taobao.com, reject
-HOST-SUFFIX,h-adashx.ut.taobao.com, reject
-HOST-SUFFIX,w.m.taobao.com, reject
-HOST,tunion-api.m.taobao.com, reject
-HOST-SUFFIX,ai.m.taobao.com, reject
-HOST-SUFFIX,re.m.taobao.com, reject
-HOST-SUFFIX,agoodm.m.taobao.com, reject
-HOST-SUFFIX,ai.taobao.com, reject
-HOST-SUFFIX,api.waptest.taobao.com, reject
-HOST-SUFFIX,dsp.simba.taobao.com, reject
-HOST-SUFFIX,fav.simba.taobao.com, reject
-HOST-SUFFIX,m.simba.taobao.com, reject
-HOST-SUFFIX,mclick.simba.taobao.com, reject
-HOST-SUFFIX,re.taobao.com, reject
-HOST-SUFFIX,redirect.simba.taobao.com, reject
-HOST-SUFFIX,simba.m.taobao.com, reject
-HOST-SUFFIX,srd.simba.taobao.com, reject
-HOST-SUFFIX,temai.taobao.com, reject
-HOST-SUFFIX,textlink.simba.taobao.com, reject
-HOST-SUFFIX,unitacs.m.taobao.com, reject
-HOST-SUFFIX,acs4baichuan.m.taobao.com, reject
-HOST-SUFFIX,adashbc.ut.taobao.com, reject
-HOST-SUFFIX,adash-c.ut.taobao.com, reject
-HOST-SUFFIX,adashxgc.ut.taobao.com, reject
-HOST-SUFFIX,adashx4yt.m.taobao.com, reject
-HOST-SUFFIX,tunion-api.m.taobao.com, reject
-HOST-SUFFIX,tns.simba.taobao.com, reject
-HOST-SUFFIX,click.mz.simba.taobao.com, reject
-HOST-SUFFIX,click.simba.taobao.com, reject
-HOST-SUFFIX,click.tz.simba.taobao.com, reject
-HOST-SUFFIX,stat.simba.taobao.com, reject
-HOST-SUFFIX,m-adash.m.taobao.com, reject
-HOST-SUFFIX,adashbc.m.taobao.com, reject
-
 # > U
 # > V
 # > W
-# 微博 开屏广告
-HOST, kadmimage.biz.weibo.com, REJECT
-HOST, sdkaction.biz.weibo.com, REJECT
-HOST, sdkclick.biz.weibo.com, REJECT
-HOST, sdkmonitor.biz.weibo.com, REJECT
-HOST-KEYWORD,fastimage.uve.weibo.com, reject
-HOST-KEYWORD,adimg.uve.weibo.com, reject
-HOST-SUFFIX,adimg.vue.weibo.com, reject
-HOST-SUFFIX,zymo.mps.weibo.com, reject
-HOST-SUFFIX,weibomingzi.com, reject
-HOST-SUFFIX,sdkapp.uve.weibo.com, reject
-HOST-SUFFIX,s.alitui.weibo.com, reject
-HOST-SUFFIX,promote.biz.weibo.cn, reject
-HOST-SUFFIX,gw5.push.mcp.weibo.cn, reject
-HOST-SUFFIX,game.weibo.cn, reject
-HOST-SUFFIX,biz.weibo.com, reject
-HOST-SUFFIX,adimg.uve.weibo.com, reject
-HOST-SUFFIX,game.weibo.com, reject
-HOST-SUFFIX,gw6.push.mcp.weibo.cn, reject
-HOST-KEYWORD,ads.viber.com, reject
-HOST-KEYWORD,ads-d.viber.com, reject
-HOST-KEYWORD,ads.aws.viber.com, reject
-HOST-SUFFIX,alitui.weibo.com, reject
-HOST,adimg.uve.weibo.com, reject
-HOST,adimg.vue.weibo.com, reject
-HOST-KEYWORD,adimg.uve.weibo.com,reject
-HOST-KEYWORD,alitui.weibo.com,reject
-HOST-KEYWORD,biz.weibo.com,reject
-HOST-KEYWORD,game.weibo.cn,reject
-HOST-KEYWORD,game.weibo.com,reject
-HOST-KEYWORD,gw5.push.mcp.weibo.cn,reject
-HOST-KEYWORD,gw6.push.mcp.weibo.cn,reject
-HOST-KEYWORD,promote.biz.weibo.cn,reject
-HOST-KEYWORD,s.alitui.weibo.com,reject
-HOST-KEYWORD,sdkapp.uve.weibo.com,reject
-HOST-KEYWORD,weibomingzi.com,reject
-HOST-KEYWORD,zymo.mps.weibo.com,reject
-HOST-KEYWORD,adimg.vue.weibo.com,reject
-HOST-KEYWORD,dp.im.weibo.cn,reject
-HOST-KEYWORD,m.game.weibo.cn,reject
-HOST-KEYWORD,c.biz.weibo.com,reject
-HOST-KEYWORD,c.wcpt.biz.weibo.com,reject
-HOST-KEYWORD,click.uve.weibo.com,reject
-HOST-KEYWORD,wax.weibo.com,reject
-HOST-KEYWORD,wbapp.uve.weibo.com,reject
-HOST-KEYWORD,widget.weibo.com,reject
-HOST-KEYWORD,zc.biz.weibo.com,reject
-HOST-KEYWORD,dsp.edm.weibo.cn,reject
-HOST-KEYWORD,alitui.weibo.com.cn,reject
-HOST-KEYWORD,biz.weibo.com.cn,reject
-HOST-KEYWORD,game.weibo.com.cn,reject
-HOST-KEYWORD,tui.weibo.com,reject
-HOST-KEYWORD,wax.weibo.com.cn,reject
-HOST-KEYWORD,ad.weibo.com,reject
-HOST-KEYWORD,adstrategy.biz.weibo.com,reject
-# HOST-KEYWORD,s.weibo.com,reject
-HOST-KEYWORD,vs.biz.weibo.com,reject
-host, bootpreload.uve.weibo.com, reject
-
 # > X
-# > 小米米家
-HOST, sdkconfig.ad.xiaomi.com, reject
-
 # > Y
 # > Z
-# > 中国联通
-HOST-SUFFIX, m1.ad.10010.com, reject
-
 # > #
-# > 影响端传媒正常运行，默认关闭
-HOST-SUFFIX, cloudfront.net, reject
+done
