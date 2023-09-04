@@ -1,0 +1,2 @@
+host,tmead.y.qq.com, REJECT
+host,ad.tencentmusic.com, REJECT
