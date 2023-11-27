@@ -196,59 +196,179 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="少儿频道",北京卡酷
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",翡翠台
-http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://www.stream-link.org/tv_logo/ebc-yoyo.png" group-title="少儿频道",東森yoyo
+http://sc2022.stream-link.org/tv2306.php?id=t26
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",翡翠台
-http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="http://www.stream-link.org/tv_logo/tvb-news.png" group-title="香港频道",无线新闻台
+http://sc2022.stream-link.org/tv2306.php?id=h04
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",翡翠台
-http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-id="85" tvg-name="无线财经_体育_资讯台" tvg-logo="http://www.stream-link.org/tv_logo/tvb-finance.png" group-title="香港频道",无线财经_体育_资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h05
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",明珠台
-http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="http://www.stream-link.org/tv_logo/tvb-news.png" group-title="香港频道",无线新闻台
+http://sc2022.stream-link.org/tv2306.php?id=h06
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰资讯
-http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="无线财经_体育_资讯台" tvg-logo="http://www.stream-link.org/tv_logo/tvb-finance.png" group-title="香港频道",无线财经_体育_资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h07
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰资讯
-http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="http://www.stream-link.org/tv_logo/hkibc.png" group-title="香港频道",香港国际财经台
+http://sc2022.stream-link.org/tv2306.php?id=h12
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰中文
-http://php.17186.eu.org/phtv/fhzw.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="香港开电视" tvg-logo="http://www.stream-link.org/tv_logo/hoy-tv.png" group-title="香港频道",香港开电视
+http://sc2022.stream-link.org/tv2306.php?id=h13
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰中文
-http://r.jdshipin.com/cCCzW
+#EXTINF:-1 tvg-id="78" tvg-name="香港开电视资讯台" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png" group-title="香港频道",香港开电视资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h14
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="凤凰卫视资讯台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-info.png" group-title="香港频道",凤凰卫视资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h15
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",凤凰香港
-http://113.117.74.29:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="凤凰卫视中文台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-live.png" group-title="香港频道",凤凰卫视中文台
+http://sc2022.stream-link.org/tv2306.php?id=h16
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",大湾区卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="凤凰卫视香港台" tvg-logo="http://www.stream-link.org/tv_logo/phtv-hk.png" group-title="香港频道",凤凰卫视香港台
+http://sc2022.stream-link.org/tv2306.php?id=h17
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="http://www.stream-link.org/tv_logo/rthk31.png" group-title="香港频道",港台电视31
+http://sc2022.stream-link.org/tv2306.php?id=h08
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",香港J2频道
-http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="http://www.stream-link.org/tv_logo/rthk32.png" group-title="香港频道",港台电视32
+http://sc2022.stream-link.org/tv2306.php?id=h09
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="香港频道",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="http://www.stream-link.org/tv_logo/rthk33.png" group-title="香港频道",港台电视33
+http://sc2022.stream-link.org/tv2306.php?id=h10
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="澳门频道",澳门莲花
-https://cntv.sbs/tv/lhws.php
+#EXTINF:-1 tvg-id="9999" tvg-name="澳门莲花卫视" tvg-logo="http://www.stream-link.org/tv_logo/macault.png" group-title="澳门频道",澳门莲花卫视
+http://sc2022.stream-link.org/tv2306.php?id=h18
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="澳门频道",澳门莲花
-https://p.ggiptv.com/v/macaulotustv.php
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/abc-news-australia.png" group-title="美国频道",ABC News Australia
+http://sc2022.stream-link.org/tv2306.php?id=e01
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="澳门频道",澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/abc-news.png" group-title="美国频道",ABC News
+http://sc2022.stream-link.org/tv2306.php?id=e02
 
-#EXTINF:-1 tvg-id="0316" tvg-name="RV" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="澳门频道",澳门莲花
-http://nettvpro.live/hls/lotustv.php?zgangd
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/ann-news.png" group-title="美国频道",ANN News
+http://sc2022.stream-link.org/tv2306.php?id=e03
 
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/asianet-news.png" group-title="美国频道",Asianet News
+http://sc2022.stream-link.org/tv2306.php?id=e04
 
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/bbc-news.png" group-title="美国频道",BBC News
+http://sc2022.stream-link.org/tv2306.php?id=e05
 
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cna-news.png" group-title="美国频道",CNA News
+http://sc2022.stream-link.org/tv2306.php?id=e06
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cnn-live.png" group-title="美国频道",CNN Live
+http://sc2022.stream-link.org/tv2306.php?id=e07
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/dw-news.png" group-title="美国频道",DW News
+http://sc2022.stream-link.org/tv2306.php?id=e08
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/euro-news.png" group-title="美国频道",EURO News
+http://sc2022.stream-link.org/tv2306.php?id=e09
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/fox-live.png" group-title="美国频道",Fox Live
+http://sc2022.stream-link.org/tv2306.php?id=e10
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/france-24E.png" group-title="美国频道",France 24 English
+http://sc2022.stream-link.org/tv2306.php?id=e11
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/gb-news.png" group-title="美国频道",GB News
+http://sc2022.stream-link.org/tv2306.php?id=e12
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/haber-turk.png" group-title="美国频道",Haber Turk
+http://sc2022.stream-link.org/tv2306.php?id=e13
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/nbc-news.png" group-title="美国频道",NBC News
+http://sc2022.stream-link.org/tv2306.php?id=e14
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/nhk-world.png" group-title="News",NHK World Japan
+http://sc2022.stream-link.org/tv2306.php?id=e15
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/sky-news.png" group-title="美国频道",SKY News
+http://sc2022.stream-link.org/tv2306.php?id=e16
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/radio-ticino.png" group-title="美国频道",Radio Ticino
+http://sc2022.stream-link.org/tv2306.php?id=e17
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/smithsonian-channel.png" group-title="美国频道",Smithsonian Channel
+http://sc2022.stream-link.org/tv2306.php?id=e18
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/love-nature.png" group-title="美国频道",Love Nature
+http://sc2022.stream-link.org/tv2306.php?id=e19
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/lego.png" group-title="美国频道",Lego
+http://sc2022.stream-link.org/tv2306.php?id=e20
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/bloomberg.png" group-title="美国频道",Bloomberg
+http://sc2022.stream-link.org/tv2306.php?id=e21
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cnbc-marathon.png" group-title="美国频道",CNBC Marathon
+http://sc2022.stream-link.org/tv2306.php?id=e22
+
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" tvg-logo="http://www.stream-link.org/tv_logo/ebc-news.png" group-title="台湾频道",东森新闻
+http://sc2022.stream-link.org/tv2306.php?id=t01
+
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" group-title="台湾频道",东森财经新闻
+http://sc2022.stream-link.org/tv2306.php?id=t02
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cti-news.png" group-title="台湾频道",中天新闻
+http://sc2022.stream-link.org/tv2306.php?id=t03
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" group-title="台湾频道",华视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t04
+
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="台湾频道",中视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t05
+
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="台湾频道",民视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t06
+
+#EXTINF:-1 tvg-id="6171" tvg-name="环宇国际新闻" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾频道",环宇国际新闻
+http://sc2022.stream-link.org/tv2306.php?id=t07
+
+#EXTINF:-1 tvg-id="6171" tvg-name="环宇台湾新闻" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="台湾频道",环宇台湾新闻
+http://sc2022.stream-link.org/tv2306.php?id=t08
+
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻" tvg-logo="http://www.stream-link.org/tv_logo/set-finance.png" group-title="台湾频道",三立财经新闻
+http://sc2022.stream-link.org/tv2306.php?id=t09
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻" tvg-logo="http://www.stream-link.org/tv_logo/set-news.png" group-title="台湾频道",三立新闻
+http://sc2022.stream-link.org/tv2306.php?id=t10
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻+" tvg-logo="http://www.stream-link.org/tv_logo/set-news+.png" group-title="台湾频道",三立新闻+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ttv-news.png" group-title="台湾频道",台视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t12
+
+#EXTINF:-1 tvg-id="9999" tvg-name="中天亚洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="台湾频道",中天亚洲台
+http://sc2022.stream-link.org/tv2306.php?id=t15
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视HD" tvg-logo="http://www.stream-link.org/tv_logo/ftv.png" group-title="台湾频道",民视HD
+http://sc2022.stream-link.org/tv2306.php?id=t17
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视第一台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-1.png" group-title="台湾频道",民视第一台
+http://sc2022.stream-link.org/tv2306.php?id=t18
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视台湾台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-tw.png" group-title="台湾频道",民视台湾台
+http://sc2022.stream-link.org/tv2306.php?id=t19
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视综艺台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-zy.png" group-title="台湾频道",民视综艺台
+http://sc2022.stream-link.org/tv2306.php?id=t20
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视影剧台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-yj.png" group-title="台湾频道",民视影剧台
+http://sc2022.stream-link.org/tv2306.php?id=t21
+
+#EXTINF:-1 tvg-id="9999" tvg-name="民视旅游台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-travel.png" group-title="台湾频道",民视旅游台
+http://sc2022.stream-link.org/tv2306.php?id=t22
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立台湾" tvg-logo="http://www.stream-link.org/tv_logo/set-tw.png" group-title="台湾频道",三立台湾
+http://sc2022.stream-link.org/tv2306.php?id=t23
+
+#EXTINF:-1 tvg-id="6072" tvg-name="三立都会" tvg-logo="http://www.stream-link.org/tv_logo/set-dh.png" group-title="台湾频道",三立都会
+http://sc2022.stream-link.org/tv2306.php?id=t24
+
+#EXTINF:-1 tvg-id="9999" tvg-name="天才冲冲冲" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="台湾频道",天才冲冲冲
+http://sc2022.stream-link.org/tv2306.php?id=t25
