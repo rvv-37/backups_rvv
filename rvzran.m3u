@@ -283,7 +283,7 @@ http://sc2022.stream-link.org/tv2306.php?id=e13
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/nbc-news.png" group-title="美国频道",NBC News
 http://sc2022.stream-link.org/tv2306.php?id=e14
 
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/nhk-world.png" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/nhk-world.png" group-title="美国频道",NHK World Japan
 http://sc2022.stream-link.org/tv2306.php?id=e15
 
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/sky-news.png" group-title="美国频道",SKY News
