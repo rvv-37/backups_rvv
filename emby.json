@@ -1,1 +1,7 @@
-![emby](https://github.com/rvv-37/backups_rvv/blob/main/fy.jpg)
+{"name":"Emby Icons", 
+"description":"By rvv", 
+"icons":[
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons/Emby111.png"},
+    {"name":"Emby22", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons/Emby22.png"},
+    {"name":"BDD22", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons/BDD22.png"},
+    {"name":"BDD3", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons/BDD3.png"},
